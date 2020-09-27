@@ -36,7 +36,7 @@
 
                 <TextView
                     android:id="@+id/title"
-                    android:textAppearance="@style/TextAppearance.Title"
+                    android:textAppearance="?attr/textAppearanceHeadline5"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
@@ -57,7 +57,7 @@
 
                 <TextView
                     android:id="@+id/subtitle"
-                    android:textAppearance="@style/TextAppearance.SubTitle"
+                    android:textAppearance="?attr/textAppearanceHeadline6"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="13dp"
