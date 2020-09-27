@@ -15,7 +15,7 @@
         <item name="fontFamily">@font/roboto</item>
     </style>
 
-    <style name="TextAppearance.Title.SubTitle">
+    <style name="TextAppearance.SubTitle" parent="TextAppearance.Title">
         <item name="android:textSize">18sp</item>
     </style>
 
