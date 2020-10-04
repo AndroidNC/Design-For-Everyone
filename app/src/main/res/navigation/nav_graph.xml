@@ -16,7 +16,7 @@
         <action android:id="@+id/action_homeFragment_to_addGdgFragment" app:destination="@id/gdg_apply"/>
     </fragment>
     <fragment android:id="@+id/gdg_apply" android:name="com.example.android.gdgfinder.add.AddGdgFragment"
-              android:label="Apply" tools:layout="@layout/add_gdg_fragment"/>
+              android:label="@string/gdg_apply" tools:layout="@layout/add_gdg_fragment"/>
 
     <!--<fragment-->
             <!--android:id="@+id/gdgDetailFragment"-->

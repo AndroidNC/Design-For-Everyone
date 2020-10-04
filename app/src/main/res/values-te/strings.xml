@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GDG phaiṇḍar</string>
+    <string name="gdg_search">GDG శోధన</string>
+    <string name="gdg_apply">GDG ను అమలు చేయడానికి దరఖాస్తు చేయండి</string>
+    <string name="gdgs_are">GDGs లు…</string>
+    <string name="gdg_description_long">GDG లు గూగుల్‌పై ప్రత్యేకంగా ఆసక్తి ఉన్న డెవలపర్‌ల స్థానిక సమూహాలు
+        ఉత్పత్తులు మరియు API లు. ప్రతి స్థానిక సమూహాన్ని GDG అధ్యాయం అని పిలుస్తారు మరియు దీని కోసం అనేక రకాల సాంకేతిక కార్యకలాపాలను నిర్వహించవచ్చు
+        డెవలపర్లు - మా తాజా వీడియోలను చూడటానికి కొద్ది మంది వ్యక్తుల నుండి, డెమోలతో పెద్ద సమావేశాల వరకు
+        మరియు టెక్ చర్చలు, హాకథాన్‌లకు. గూగుల్ డెవలపర్లు GDG అధ్యాయాలకు మద్దతు ఇస్తారు మరియు గుర్తిస్తారు, కానీ స్వంతం లేదా నిర్వహించడం లేదు
+        వాటిని.
+    </string>
+    <string name="about_google_developer_groups">Google డెవలపర్ గుంపుల గురించి</string>
+    <string name="gdg_description_bullets">️స్థానిక డెవలపర్ సంఘాలలో ఉద్వేగభరితమైన వ్యక్తులచే నడుస్తుంది \ n
+        తోటి డెవలపర్‌లతో ఆలోచనలు మరియు నెట్‌వర్క్‌ను పంచుకోవడానికి ఒక సమూహం \ n
+        Google Google సాంకేతికతలు మరియు అభివృద్ధి సాధనాల గురించి తెలుసుకోవడానికి ఒక ప్రదేశం \ n
+        ఆసక్తి ఉన్న వారందరికీ తెరవండి మరియు ఉచితం
+    </string>
+    <string name="waiting_for_location_and_network">స్థానం మరియు నెట్‌వర్క్ ఫలితం కోసం వేచి ఉంది. \ N \ n ఒక దానిపై నడుస్తుంటే
+        స్థాన సేవలను ప్రారంభించడానికి ఎమ్యులేటర్ మ్యాప్స్ అనువర్తనాన్ని తెరవండి.
+    </string>
+    <string name="stage_image_description">దేవ్‌ఫెస్ట్ నుండి వేదిక నుండి ఫోటో</string>
+    <string name="submit_button_description">ఫారమ్‌ను సమర్పించడానికి బటన్</string>
+    <string name="form_name_description">మీ పేరు రాయండి</string>
+    <string name="motivation">మీరు GDG ను ఎందుకు ప్రారంభించాలనుకుంటున్నారనే దాని గురించి మాకు కొంచెం ఎక్కువ చెప్పండి</string>
+    <string name="your_name_label">నీ పేరు</string>
+    <string name="email_label">ఇ-మెయిల్</string>
+    <string name="city_label">నగరం</string>
+    <string name="country_label">దేశం</string>
+    <string name="region_label">ప్రాంతం</string>
+    <string name="enter_motivation">దయచేసి మీ ప్రేరణను 1-2 వాక్యాలలో నమోదు చేయండి</string>
+    <string name="submitted">సమర్పించబడింది, మళ్ళీ సమర్పించాల్సిన అవసరం లేదు</string>
+    <string name="done">పూర్తి</string>
+    <string name="submit">సమర్పించండి</string>
+</resources>
