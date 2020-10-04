@@ -19,6 +19,7 @@
 
             <TextView
                     android:id="@+id/textViewIntro"
+                    android:contentDescription="@string/add_gdg"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/add_gdg"
@@ -38,6 +39,7 @@
                     app:srcCompat="@drawable/behind"
                     android:layout_marginTop="5dp"
                     android:layout_marginBottom="2dp"
+                    android:contentDescription="@string/stage_image_description"
                     app:layout_constraintTop_toBottomOf="@+id/textViewIntro"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -133,6 +135,7 @@
             <TextView
                     android:id="@+id/labelTextWhy"
                     android:text="@string/motivation"
+                    android:contentDescription="@string/motivation"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/spacing_normal"
@@ -148,6 +151,7 @@
                     android:layout_height="wrap_content"
                     android:inputType="textMultiLine"
                     android:ems="10"
+                    android:hint="@string/enter_motivation"
                     app:layout_constraintTop_toBottomOf="@+id/EditTextRegion"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -162,11 +166,13 @@
             <Button
                     android:id="@+id/button"
                     android:text="@string/submit"
+                    android:hint=""
                     android:layout_width="40dp"
                     android:layout_height="24dp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/EditTextWhy"
+                    android:contentDescription="@string/submit_button_description"
                     android:backgroundTint="#00FF00"
                     android:textColor="#FF0000"
                     android:textSize="12sp"
